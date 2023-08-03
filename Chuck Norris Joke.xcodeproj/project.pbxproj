@@ -15,6 +15,7 @@
 		FAF1A96A2A77F57900528B5D /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = FAF1A9692A77F57900528B5D /* SnapKit */; };
 		FAF1A96D2A77F68300528B5D /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = FAF1A96C2A77F68300528B5D /* Alamofire */; };
 		FAF1A96F2A7AA2B300528B5D /* ChuckNorrisJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF1A96E2A7AA2B200528B5D /* ChuckNorrisJoke.swift */; };
+		FAF1A9992A7BEA8800528B5D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF1A9982A7BEA8800528B5D /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FAF1A9602A77F1F800528B5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAF1A9622A77F1F800528B5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FAF1A96E2A7AA2B200528B5D /* ChuckNorrisJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChuckNorrisJoke.swift; sourceTree = "<group>"; };
+		FAF1A9982A7BEA8800528B5D /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				FAF1A9542A77F1F700528B5D /* AppDelegate.swift */,
 				FAF1A9562A77F1F700528B5D /* SceneDelegate.swift */,
 				FAF1A9582A77F1F700528B5D /* ViewController.swift */,
+				FAF1A9982A7BEA8800528B5D /* TableViewCell.swift */,
 				FAF1A96E2A7AA2B200528B5D /* ChuckNorrisJoke.swift */,
 				FAF1A95D2A77F1F800528B5D /* Assets.xcassets */,
 				FAF1A95F2A77F1F800528B5D /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAF1A9992A7BEA8800528B5D /* TableViewCell.swift in Sources */,
 				FAF1A9592A77F1F700528B5D /* ViewController.swift in Sources */,
 				FAF1A9552A77F1F700528B5D /* AppDelegate.swift in Sources */,
 				FAF1A9572A77F1F700528B5D /* SceneDelegate.swift in Sources */,
